@@ -52,8 +52,7 @@ Follow these steps to set up and run the project:
 ## Contributing
 Fork the repository, make your changes, and submit a pull request.
 
-## License
-This project is licensed under the MIT License.
+
 
 ---
 
