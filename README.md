@@ -5,9 +5,10 @@ This website represents the Department of Electronics and Communication Engineer
 
 ## Prerequisites
 To run this project locally, ensure you have the following installed:
--VS Code
+
 - Node.js (latest stable version)
 - npm (Node Package Manager)
+- VS code
 
 ## Installation and Setup
 Follow these steps to set up and run the project:
